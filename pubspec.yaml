@@ -1,8 +1,8 @@
 name: first_pacakge
 description: This is my demo flutter project.
 version: 0.0.1
-authors: Priyam Srivastava <priyam.srivastava.005@gmail.com>
-homepage: https://github.com/007PRIYAM/flutter_first_package.git
+authors:
+homepage:
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
